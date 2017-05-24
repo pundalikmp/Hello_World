@@ -1,2 +1,4 @@
-"android":"pundalik"
-"moto":"good"
+"foo" : {
+  "bar" : "Hello",
+  "baz" : [ "quuz", "norf" ]
+}
